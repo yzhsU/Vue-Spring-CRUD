@@ -1,0 +1,31 @@
+# Maven build 디렉토리
+target/
+
+# Gradle build 디렉토리
+build/
+
+# IDE 설정 파일 디렉토리
+.idea/
+.vscode/
+
+# 로그 파일
+*.log
+
+# 빌드 결과물
+/dist/
+/build/
+
+# 개발자가 직접 작성한 환경설정 파일
+*.properties
+*.yml
+*.yaml
+
+# Node.js 모듈 디렉토리
+/node_modules/
+
+# Vue.js 빌드 디렉토리
+/dist/
+/.history/
+
+# MacOS 파일
+.DS_Store
